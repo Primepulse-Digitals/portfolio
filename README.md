@@ -1,23 +1,21 @@
 # Portfolio · PrimePulse Digitals
 
-Een selectie van projecten van [PrimePulse Digitals](https://github.com/Primepulse-Digitals): websites, apps, automatisering en data. Klantprojecten staan hier alleen met toestemming van de klant. De broncode van klantwerk blijft privé.
+A selection of projects by [PrimePulse Digitals](https://github.com/Primepulse-Digitals): websites, apps, automation and data. Client projects are shown only with the client's permission. Client source code stays private.
 
-<sub>English: a selection of projects by PrimePulse Digitals. Client work is shown only with the client's permission; source code stays private.</sub>
+## Projects
 
-## Projecten
-
-| Project | Soort | Wat er gemaakt is |
+| Project | Type | What was built |
 |---|---|---|
-| [PrimePulse Digitals website](cases/primepulse-website/) | Website · eigen project | Snelle, tweetalige bedrijfssite (NL/EN) zonder frameworks of trackers |
+| [PrimePulse Digitals website](cases/primepulse-website/) | Website · own project | Fast, bilingual company website (Dutch/English) with no frameworks or trackers |
 
 <!--
-Nieuwe case toevoegen:
-1. Kopieer cases/_template naar cases/<klant-of-project>
-2. Vul README.md in en zet screenshots (jpg, max ~300 KB) in dezelfde map
-3. Voeg een rij toe aan de tabel hierboven
-Alleen publiceren met schriftelijke toestemming van de klant.
+Adding a case:
+1. Copy cases/_template to cases/<client-or-project>
+2. Fill in README.md and add screenshots (jpg, max ~300 KB) to the same folder
+3. Add a row to the table above
+Only publish with the client's written permission.
 -->
 
 ---
 
-Vragen of een project bespreken? [primepulsedigitals@gmail.com](mailto:primepulsedigitals@gmail.com)
+Want to discuss a project? [primepulsedigitals@gmail.com](mailto:primepulsedigitals@gmail.com)

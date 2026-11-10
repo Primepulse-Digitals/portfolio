@@ -1,20 +1,20 @@
-# <Projectnaam>
+# <Project name>
 
-**Klant:** <naam of omschrijving, bijv. "horecazaak in Amsterdam">
-**Soort:** <website / app / automatisering / dashboard>
-**Jaar:** <jaar>
+**Client:** <name or description, e.g. "restaurant in Amsterdam">
+**Type:** <website / app / automation / dashboard>
+**Year:** <year>
 
-<img src="desktop.jpg" alt="<beschrijving>" width="72%"> <img src="mobiel.jpg" alt="<beschrijving>" width="22%">
+<img src="desktop.jpg" alt="<description>" width="72%"> <img src="mobile.jpg" alt="<description>" width="22%">
 
-## Vraag
-<Wat wilde de klant bereiken of oplossen?>
+## Brief
+<What did the client want to achieve or solve?>
 
-## Aanpak
-- <keuze 1 en waarom>
-- <keuze 2 en waarom>
+## Approach
+- <decision 1 and why>
+- <decision 2 and why>
 
-## Resultaat
-<Wat is er opgeleverd en wat merkt de klant ervan? Alleen cijfers die je kunt onderbouwen.>
+## Result
+<What was delivered and what difference does it make for the client? Only use figures you can back up.>
 
-## Techniek
-<tools en diensten>
+## Stack
+<tools and services>

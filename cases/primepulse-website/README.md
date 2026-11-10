@@ -1,27 +1,27 @@
 # PrimePulse Digitals website
 
-**Soort:** bedrijfswebsite · eigen project
-**Talen:** Nederlands en Engels
-**Jaar:** 2026
+**Type:** company website · own project
+**Languages:** Dutch and English
+**Year:** 2026
 
-<img src="desktop.jpg" alt="Homepage van de PrimePulse Digitals website op desktop" width="72%"> <img src="mobiel.jpg" alt="Homepage op mobiel" width="22%">
+<img src="desktop.jpg" alt="PrimePulse Digitals homepage on desktop" width="72%"> <img src="mobiel.jpg" alt="PrimePulse Digitals homepage on mobile" width="22%">
 
-## Vraag
+## Brief
 
-Een eigen website die in een paar seconden laat zien wat PrimePulse doet, op elk scherm goed werkt en zonder onderhoud snel blijft.
+A company website that shows what PrimePulse does within seconds, works well on every screen and stays fast without ongoing maintenance.
 
-## Aanpak
+## Approach
 
-- **Statisch en zonder frameworks.** HTML, CSS en een klein beetje JavaScript, gebouwd met één Node-script. Geen externe scripts, lokale fonts.
-- **Tweetalig.** Nederlands op `/`, Engels op `/en/`, met dezelfde opbouw.
-- **Privacyvriendelijk.** Geen cookies, geen analytics, geen tracking.
-- **Toegankelijk.** Werkt met het toetsenbord, respecteert de voorkeur voor minder beweging en de inhoud blijft zichtbaar zonder JavaScript.
-- **Subtiele effecten.** Zachte fotobeweging, korte binnenkomst van secties en hoveraccenten.
+- **Static, no frameworks.** HTML, CSS and a small amount of JavaScript, built with a single Node script. No third-party scripts; fonts are self-hosted.
+- **Bilingual.** Dutch at `/`, English at `/en/`, with the same structure.
+- **Privacy-friendly.** No cookies, no analytics, no tracking.
+- **Accessible.** Fully keyboard-operable, respects the reduced-motion preference, and content stays visible without JavaScript.
+- **Subtle motion.** Gentle photo movement on scroll, short section reveals and hover accents.
 
-## Controle
+## Testing
 
-Gecontroleerd op zes schermbreedtes (320 tot 1440 pixels): menu, toetsenbordfocus, interne links en formuliervalidatie. Geen scriptfouten of ontbrekende bestanden.
+Checked at six screen widths (320 to 1440 pixels): menu, keyboard focus, internal links and form validation. No script errors or missing assets.
 
-## Techniek
+## Stack
 
 HTML · CSS · JavaScript · Node.js (build) · Netlify
