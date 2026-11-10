@@ -3,7 +3,7 @@
 **Type:** company website · own project
 **Languages:** Dutch and English
 **Year:** 2026
-**Live:** [primepulse-digitals.netlify.app](https://primepulse-digitals.netlify.app/en/)
+**Live:** [primepulse-digitals.netlify.app](https://primepulse-digitals.netlify.app/)
 
 <img src="desktop.jpg" alt="PrimePulse Digitals homepage on desktop" width="72%"> <img src="mobiel.jpg" alt="PrimePulse Digitals homepage on mobile" width="22%">
 
@@ -14,7 +14,7 @@ A company website that shows what PrimePulse does within seconds, works well on 
 ## Approach
 
 - **Static, no frameworks.** HTML, CSS and a small amount of JavaScript, built with a single Node script. No third-party scripts; fonts are self-hosted.
-- **Bilingual.** Dutch at `/`, English at `/en/`, with the same structure.
+- **Bilingual.** English at `/`, Dutch at `/nl/`, with the same structure.
 - **Privacy-friendly.** No cookies, no analytics, no tracking.
 - **Accessible.** Fully keyboard-operable, respects the reduced-motion preference, and content stays visible without JavaScript.
 - **Subtle motion.** Gentle photo movement on scroll, short section reveals and hover accents.
