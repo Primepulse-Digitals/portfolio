@@ -3,6 +3,7 @@
 **Type:** company website · own project
 **Languages:** Dutch and English
 **Year:** 2026
+**Live:** [primepulse-digitals.netlify.app](https://primepulse-digitals.netlify.app/en/)
 
 <img src="desktop.jpg" alt="PrimePulse Digitals homepage on desktop" width="72%"> <img src="mobiel.jpg" alt="PrimePulse Digitals homepage on mobile" width="22%">
 
