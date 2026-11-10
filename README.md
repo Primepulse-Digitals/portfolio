@@ -1,6 +1,6 @@
 # Portfolio · PrimePulse Digitals
 
-Een selectie van projecten van [PrimePulse Digitals](https://github.com/primepulsedigitals): websites, apps, automatisering en data. Klantprojecten staan hier alleen met toestemming van de klant. De broncode van klantwerk blijft privé.
+Een selectie van projecten van [PrimePulse Digitals](https://github.com/Primepulse-Digitals): websites, apps, automatisering en data. Klantprojecten staan hier alleen met toestemming van de klant. De broncode van klantwerk blijft privé.
 
 <sub>English: a selection of projects by PrimePulse Digitals. Client work is shown only with the client's permission; source code stays private.</sub>
 
